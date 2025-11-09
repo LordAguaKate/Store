@@ -173,10 +173,26 @@ El notebook contiene los siguientes análisis detallados:
 El notebook incluye múltiples visualizaciones profesionales:
 
 - 📊 Gráficos de barras con formato de millones
+  
+ <img width="989" height="590" alt="image" src="https://github.com/user-attachments/assets/fc5502c0-0a27-49a3-8c63-474c724cd935" />
+
 - 🥧 Gráficos circulares de distribución por categoría
+  
+  <img width="1081" height="890" alt="image" src="https://github.com/user-attachments/assets/b67d8860-673a-4b60-b433-4ae658737356" />
+
 - 📈 Gráficos de dispersión para análisis de correlación
+  
+  <img width="1180" height="889" alt="image" src="https://github.com/user-attachments/assets/65ad4562-e5dd-40e3-bdfa-0e3ccbb023c9" />
+
 - 🗺️ Mapas de calor geográficos interactivos
+  
+  <img width="2243" height="1130" alt="image" src="https://github.com/user-attachments/assets/eb81d5fc-0d44-440f-9fc0-9f12f0de2d8d" />
+
+
 - 📍 Mapas de clustering con información detallada por punto
+  
+  <img width="2057" height="1105" alt="image" src="https://github.com/user-attachments/assets/3409b462-f3f3-4b63-bac1-3b26383d0558" />
+
 
 ---
 
