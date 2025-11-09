@@ -174,7 +174,7 @@ El notebook incluye múltiples visualizaciones profesionales:
 
 - 📊 Gráficos de barras con formato de millones
   
- <img width="989" height="590" alt="image" src="https://github.com/user-attachments/assets/fc5502c0-0a27-49a3-8c63-474c724cd935" />
+  <img width="989" height="590" alt="image" src="https://github.com/user-attachments/assets/fc5502c0-0a27-49a3-8c63-474c724cd935" />
 
 - 🥧 Gráficos circulares de distribución por categoría
   
